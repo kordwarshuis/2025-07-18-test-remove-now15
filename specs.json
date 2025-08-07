@@ -53,7 +53,8 @@
         {
           "name": "Kor Dwarshuis"
         }
-      ]
+      ],
+      "anchor_symbol": "@@"
     }
   ]
 }
